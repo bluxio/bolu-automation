@@ -76,7 +76,7 @@ The contact form uses [Web3Forms](https://web3forms.com/) - a free, serverless f
 
 2. **Add your access key to the site:**
    - Open `index.html`
-   - Find line 156 (in the contact form section):
+   - Find line 168 (in the contact form section):
      ```html
      <input type="hidden" name="access_key" value="YOUR_WEB3FORMS_ACCESS_KEY_HERE">
      ```
